@@ -167,15 +167,3 @@ Through this project, you will learn:
 - Working with Real-world Datasets
 - Python Data Analysis Libraries
 
----
-
-## 📌 Future Improvements
-
-- Interactive dashboards using Plotly
-- Power BI Dashboard
-- Machine Learning for Funding Prediction
-- Investor Recommendation System
-- Startup Success Prediction
-
----
-
