@@ -1,5 +1,5 @@
 # Workshop_project
-# 🇮🇳 Indian Startup Funding Analysis
+# Indian Startup Funding Analysis
 
 ## 📌 Project Overview
 This project performs an **Exploratory Data Analysis (EDA)** on the Indian Startup Funding dataset using **Python, Pandas, Matplotlib, and Seaborn**.
